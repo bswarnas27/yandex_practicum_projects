@@ -18,12 +18,10 @@ These projects were completed for Practicum's Data Analyst Program.
 | food_products_startup_user_behaviour |  This is the second Integrated Project. The aim of the project is to study the sales funnel. Find out how users reach the purchase stage. How many users actually make it to this stage? How many get stuck at previous stages? Which stages in particular? Then look at the results of an A/A/B test. The designers would like to change the fonts for the entire app, but the managers are afraid the users might find the new design intimidating. They decide to make a decision based on the results of an A/A/B test. The users are split into three groups: two control groups get the old fonts and one test group gets the new ones. We will be finding out which set of fonts produces better results. | *pandas* , *matplotlib*, *scipy*, *seaborn*|
 | gym_customer_retention |  This is the Forecasts and Predictions Project. The aim of the project is to learn to predict the probability of churn (for the upcoming month) for each customer of a gym. Draw up typical user portraits: select the most outstanding groups and describe their main features,analyze the factors that impact churn most.
 Draw basic conclusions and develop recommendations on how to improve customer service:
-- Identify target groups
-- Suggest measures to cut churn
-- Describe any other patterns you see with respect to interaction with customers | *pandas* , *matplotlib*, *seaborn*, *sklearn*|
+identify target groups,suggest measures to cut churn and  describe any other patterns you see with respect to interaction with customers | *pandas* , *matplotlib*, *seaborn*, *sklearn*|
 | recommender_system_test |  This is the Final A/B Testing Project. The purpose of the project is to test changes related to the introduction of an improved recommendation system of the online store. The expected result: within 14 days of signing up, users will show better conversion into product page views (the product_page event), instances of adding items to the shopping cart (product_cart), and purchases (purchase). At each stage of the funnel product_page → product_cart → purchase, there will be at least a 10% increase.  | *pandas* , *matplotlib*, *scipy*, *datetime*, *math*|
 | product_range_analysis |  This is the Final Project. The purpose of the project is to Carry out exploratory data analysis,Analyze the product range, Formulate and test statistical hypotheses for the online store. Our main aim of this project is to do the Project Range Analysis which will include finding revenue, average check, revenue per unit, ARPPU along with the following:
 
-- Which products are more often sold by themselves, and which ones are more often combined with others(main and additional -assortment)?
-- What product groups are more often included in the additional assortment?
-- What bundles of product groups are often present in shopping carts? | *pandas* , *matplotlib*, *scipy*, *datetime*, *math*, *nltk*, *textblob*|
+Which products are more often sold by themselves, and which ones are more often combined with others(main and additional -assortment)?
+What product groups are more often included in the additional assortment?
+What bundles of product groups are often present in shopping carts? | *pandas* , *matplotlib*, *scipy*, *datetime*, *math*, *nltk*, *textblob*|
