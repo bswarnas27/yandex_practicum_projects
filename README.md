@@ -21,3 +21,9 @@ Draw basic conclusions and develop recommendations on how to improve customer se
 - Identify target groups
 - Suggest measures to cut churn
 - Describe any other patterns you see with respect to interaction with customers | *pandas* , *matplotlib*, *seaborn*, *sklearn*|
+| recommender_system_test |  This is the Final A/B Testing Project. The purpose of the project is to test changes related to the introduction of an improved recommendation system of the online store. The expected result: within 14 days of signing up, users will show better conversion into product page views (the product_page event), instances of adding items to the shopping cart (product_cart), and purchases (purchase). At each stage of the funnel product_page → product_cart → purchase, there will be at least a 10% increase.  | *pandas* , *matplotlib*, *scipy*, *datetime*, *math*|
+| product_range_analysis |  This is the Final Project. The purpose of the project is to Carry out exploratory data analysis,Analyze the product range, Formulate and test statistical hypotheses for the online store. Our main aim of this project is to do the Project Range Analysis which will include finding revenue, average check, revenue per unit, ARPPU along with the following:
+
+- Which products are more often sold by themselves, and which ones are more often combined with others(main and additional -assortment)?
+- What product groups are more often included in the additional assortment?
+- What bundles of product groups are often present in shopping carts? | *pandas* , *matplotlib*, *scipy*, *datetime*, *math*, *nltk*, *textblob*|
